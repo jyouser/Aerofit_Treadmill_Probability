@@ -1,9 +1,9 @@
 This is all about Aerofit Case study
 
-##📊 Aerofit Business case study
+📊 Aerofit Business case study
  
-#🎯 Whythis case study?
-#💾 From the company’s perspective:
+🎯 Whythis case study?
+💾 From the company’s perspective:
  ● Aerofit is a leading brand in the field of fitness equipment. Aerofit provides a product
  range including machines such as treadmills, exercise bikes, gym equipment, and
  f
@@ -17,7 +17,7 @@ This is all about Aerofit Case study
  product by developing appropriate tables and charts.
  ● Construct two-way contingency tables for each AeroFit treadmill product and compute
  all conditional and marginal probabilities and their insights/impact on the business.
-#💾 From the learner’s perspective:
+💾 From the learner’s perspective:
  ● Solving this business case holds immense importance for aspiring data analysts and
  scientists.
  ● Through the process of engaging with this case study, individuals acquire practical
@@ -26,7 +26,7 @@ This is all about Aerofit Case study
  ● Engaging in the resolution of this specific case study will aid in cultivating expertise in
  identifying connections between input variables and output variables.
  ____________________________________________________________________________
-#💾 Dataset link: aerofit_data.csv
+💾 Dataset link: aerofit_data.csv
  ● Product: Product Purchased KP281, KP481, or KP781
  ● Age: In years
  ● Gender: Male/Female
@@ -41,7 +41,7 @@ This is all about Aerofit Case study
  ● TheKP281is an entry-level treadmill that sells for $1,500.
  ● TheKP481is for mid-level runners that sell for $1,750.
  ● TheKP781treadmill has advanced features that sell for $2,500.
-#🔍 What is expected?
+🔍 What is expected?
  As adata analyst/scientist at Aerofit, I have been tasked with the responsibility of analyzing
  the provided dataset to extract valuable insights and deliver actionable recommendations.
  
