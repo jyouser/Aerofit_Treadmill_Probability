@@ -2,7 +2,6 @@
 
 ## 📘 Project Overview
 **Topic:** Exploratory Data Analysis (EDA)  
-**Duration:** 1 Week  
 
 Aerofit is a leading brand in the field of fitness equipment, offering a wide range of products such as treadmills, exercise bikes, gym equipment, and fitness accessories.  
 The purpose of this project is to analyze customer data and identify **key characteristics of the target audience** for each treadmill model — **KP281, KP481, and KP781**.
