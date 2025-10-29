@@ -27,7 +27,7 @@ This analysis helps Aerofit provide **better product recommendations**, understa
 
 ## 🧩 Dataset Information
 
-**Dataset:** `aerofit_data.csv`
+**Dataset:** `aerofit_treadmill_1`
 
 | Column | Description |
 |:---------|:-------------|
